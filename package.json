@@ -1,0 +1,23 @@
+{
+  "name": "typescript-crashcourse",
+  "version": "1.0.0",
+  "description": "Just some files for an typescript crashcourse",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mode777/typescript-crashcourse.git"
+  },
+  "author": "Alexander Klingenbeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mode777/typescript-crashcourse/issues"
+  },
+  "homepage": "https://github.com/mode777/typescript-crashcourse#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.26",
+    "typescript": "^2.5.2"
+  }
+}

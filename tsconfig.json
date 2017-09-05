@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "outDir": "js",
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "inlineSourceMap": true,
+    "newLine": "LF"
+  }
+}
